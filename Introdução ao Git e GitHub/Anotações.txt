@@ -1,0 +1,6 @@
+Downloads:
+Git: https://git-scm.com/download/win
+VSCode: https://code.visualstudio.com/download
+
+Observações:
+Instalar a extensão do Typora no VSCode
