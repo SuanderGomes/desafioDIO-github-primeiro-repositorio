@@ -6,4 +6,4 @@ Repositório criado para o primeiro desafio de projeto.
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[Git Basics] (https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+[Git Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
